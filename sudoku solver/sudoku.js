@@ -1,5 +1,3 @@
-
-// Set this variable to true to publicly expose otherwise private functions inside of SudokuSolver
 var TESTABLE = true;
 
 var SudokuSolver = function (testable) {
